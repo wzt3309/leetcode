@@ -1,0 +1,28 @@
+apply plugin: 'java'
+
+repositories {
+    mavenLocal()
+    jcenter()
+}
+
+dependencies {
+    testCompile 'junit:junit:4.12'
+    testCompile 'org.assertj:assertj-core:3.11.1'
+//    testCompile project(":problems")
+}
+
+sourceSets {
+    problems { 
+        java {
+            srcDirs 'problems'
+        }
+    }
+    test {
+        java {
+            srcDirs './test'
+            compileClasspath += problems.output
+            runtimeClasspath += problems.output
+        }
+    }
+}
+
