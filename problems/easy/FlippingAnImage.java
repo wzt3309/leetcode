@@ -12,7 +12,7 @@ public class FlippingAnImage {
                 B[i] = new int[row.length];
                 int j = row.length - 1;
                 for (int x: row) {
-                    B[i][j--] = (x == 1 ? 0 : 1);
+                    B[i][j--] = x^1;
                 }
                 i++;
             }

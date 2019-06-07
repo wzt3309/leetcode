@@ -10,3 +10,9 @@
 
 1. (flipping-an-image)[https://leetcode.com/problems/flipping-an-image/]
 2. (sort-array-by-parity)[https://leetcode.com/problems/sort-array-by-parity/]
+
+# Day 3
+**Array**
+已排序数组合并，核心使用*双指针*
+1. (merge-sorted-array)[https://leetcode.com/problems/merge-sorted-array/]
+2. (squares-of-a-sorted-array)[https://leetcode.com/problems/squares-of-a-sorted-array/]
