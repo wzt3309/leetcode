@@ -16,3 +16,9 @@
 已排序数组合并，核心使用*双指针*
 1. (merge-sorted-array)[https://leetcode.com/problems/merge-sorted-array/]
 2. (squares-of-a-sorted-array)[https://leetcode.com/problems/squares-of-a-sorted-array/]
+
+# Day 4
+**Array**
+对数组进行排序，核心*不要被传统排序算法所蒙蔽*
+1. (array-partition-i)[https://leetcode.com/problems/array-partition-i/]
+2. (height-checker)[https://leetcode.com/problems/height-checker/]
