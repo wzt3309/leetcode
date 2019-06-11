@@ -2,6 +2,9 @@ package easy;
 
 import java.util.Arrays;
 
+/**
+ * 561. Array Partition I
+ */
 public class ArrayPartitionI {
     static class Solution {
         public int arrayPairSum(int[] nums) {

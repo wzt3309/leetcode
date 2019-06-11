@@ -22,3 +22,11 @@
 对数组进行排序，核心*不要被传统排序算法所蒙蔽*
 1. (array-partition-i)[https://leetcode.com/problems/array-partition-i/]
 2. (height-checker)[https://leetcode.com/problems/height-checker/]
+
+# Day 5
+**Array**
+1. (sort-array-by-parity-ii)[https://leetcode.com/problems/sort-array-by-parity-ii/]
+2. (Fibonacci Number)[https://leetcode.com/problems/fibonacci-number/]
+3. (Available Captures for Rook)[https://leetcode.com/problems/available-captures-for-rook/]
+4. (find-common-characters)[https://leetcode.com/problems/find-common-characters/]
+
