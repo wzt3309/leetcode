@@ -30,3 +30,10 @@
 3. (Available Captures for Rook)[https://leetcode.com/problems/available-captures-for-rook/]
 4. (find-common-characters)[https://leetcode.com/problems/find-common-characters/]
 
+# Day 6
+**Array**
+1. (transpose-matrix)[https://leetcode.com/problems/transpose-matrix]
+2. (sum-of-even-numbers-after-queries)[https://leetcode.com/problems/sum-of-even-numbers-after-queries]
+3. (toeplitz-matrix)[https://leetcode.com/problems/toeplitz-matrix]
+4. (reshape-the-matrix)[https://leetcode.com/problems/reshape-the-matrix]
+
