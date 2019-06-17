@@ -37,3 +37,9 @@
 3. (toeplitz-matrix)[https://leetcode.com/problems/toeplitz-matrix]
 4. (reshape-the-matrix)[https://leetcode.com/problems/reshape-the-matrix]
 
+# Day 7
+**String**
+1. (robot-return-to-origin)[https://leetcode.com/problems/robot-return-to-origin/]
+2. (groups-of-special-equivalent-strings)[https://leetcode.com/problems/groups-of-special-equivalent-strings/]
+3. (reverse-string)[https://leetcode.com/problems/reverse-string]
+4. (reverse-words-in-a-string-iii)[https://leetcode.com/problems/reverse-words-in-a-string-iii/]
