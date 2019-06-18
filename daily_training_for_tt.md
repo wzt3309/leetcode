@@ -43,3 +43,10 @@
 2. (groups-of-special-equivalent-strings)[https://leetcode.com/problems/groups-of-special-equivalent-strings/]
 3. (reverse-string)[https://leetcode.com/problems/reverse-string]
 4. (reverse-words-in-a-string-iii)[https://leetcode.com/problems/reverse-words-in-a-string-iii/]
+
+# Day 8
+**String**
+1. (goat-latin)[https://leetcode.com/problems/goat-latin/]
+2. (reorder-log-files)[https://leetcode.com/problems/reorder-log-files/]
+3. (longest-uncommon-subsequence-i)[https://leetcode.com/problems/longest-uncommon-subsequence-i/]
+4. (reverse-only-letters)[https://leetcode.com/problems/reverse-only-letters/]
