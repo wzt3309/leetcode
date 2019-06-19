@@ -50,3 +50,8 @@
 2. (reorder-log-files)[https://leetcode.com/problems/reorder-log-files/]
 3. (longest-uncommon-subsequence-i)[https://leetcode.com/problems/longest-uncommon-subsequence-i/]
 4. (reverse-only-letters)[https://leetcode.com/problems/reverse-only-letters/]
+
+# Day 9
+**Array**
+1. (reveal-cards-in-increasing-order)[https://leetcode.com/problems/reveal-cards-in-increasing-order]
+2. (find-all-duplicates-in-an-array)[https://leetcode.com/problems/find-all-duplicates-in-an-array/]
